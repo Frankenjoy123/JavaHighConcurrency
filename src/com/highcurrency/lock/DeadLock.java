@@ -1,3 +1,5 @@
+package com.highcurrency.lock;
+
 /**
  * Created by xiaowu.zhou@tongdun.cn on 2018/5/14.
  */

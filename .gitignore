@@ -31,3 +31,6 @@ hs_err_pid*
 out
 gen
 *.log.swp
+/bin/
+
+.DS_Store

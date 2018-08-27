@@ -18,7 +18,7 @@ public class AtomicIntegerArrayFunc {
 
             for (int i = 0; i<10000 ; i++){
 
-                atomicIntegerArray.getAndIncrement(i%atomicIntegerArray.length());
+                    atomicIntegerArray.getAndIncrement(i%atomicIntegerArray.length());
 
             }
         }
